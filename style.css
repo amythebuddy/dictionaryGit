@@ -1,0 +1,42 @@
+body{
+    margin: auto;
+    text-align: center;
+    padding: 10%;
+    background-color: rgb(245, 229, 139);
+}
+h1{
+    font-family: cursive;
+    font-size: 3rem;
+}
+input{
+    width: 48%;
+    height: 2rem;
+    margin: 0 auto;
+    font-size: 1rem;
+}
+button{
+    width: 5rem;
+    height: 2rem;
+    background-color: rgb(0, 123, 255);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 1.2rem;
+    color: white;
+    border-radius: 5px;
+}
+button:hover{
+    cursor: pointer;
+    background-color: rgb(0, 83, 171);
+    font-weight: 800;
+}
+.popUpText{
+    font-size: 1.5rem;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.contain{
+    width: 52%;
+    border: 1px white solid;
+    text-align: left;
+    padding: 0 0 0 2rem;
+    margin: 0 auto;
+    background-image: linear-gradient(#ffffff, #9198e5);
+}
